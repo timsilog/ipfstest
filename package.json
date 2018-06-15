@@ -1,0 +1,11 @@
+{
+  "name": "ipfstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timsilog/ipfstest.git",
+  "author": "Tim Jose <timjose3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browseth": "^0.0.47"
+  }
+}
